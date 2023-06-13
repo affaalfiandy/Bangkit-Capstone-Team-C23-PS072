@@ -1,3 +1,4 @@
-# Android Wave Recorder
-[![](https://jitpack.io/v/squti/Android-Wave-Recorder.svg)](https://jitpack.io/#squti/Android-Wave-Recorder)
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android%20Wave%20Recorder-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/7939)
+# Bangkit Capstone Project Team C23-PS072
+Backend: https://github.com/kbiits/bangkit-capstone-strapi
+ML-API: https://github.com/kbiits/bangkit-capstone-ML-API
+Android app: We use this github: https://github.com/squti/Android-Wave-Recorder code for record the voice and convert to wav file as example.
