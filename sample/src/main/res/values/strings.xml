@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MommyMate</string>
+    <string name="start">Record</string>
+    <string name="Pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="stop">Stop</string>
+    <string name="amp">Amplitude %s</string>
+    <string name="menu">Klik Record untuk mulai</string>
+    <string name="sabar">Sabar</string>
+    <string name="lagi_rekam">Sedang merekam..</string>
+    <string name="prediksi">Bayi Anda mungkin </string>
+    <string name="noise">Noise Supp</string>
+
+</resources>
